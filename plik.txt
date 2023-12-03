@@ -1,1 +1,2 @@
 "To jest m¢j plik tekstowy." 
+"Nowa linijka w pliku." 
